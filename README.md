@@ -1,2 +1,23 @@
-# F2-diploma-project
-Alley — event-driven content-sharing platform. Bachelor qualification project, F2 Software Engineering.
+# Alley — F2 Diploma Project
+
+Програмне забезпечення соціальної платформи для обміну контентом
+із підтримкою асинхронної обробки подій та Real-Time комунікації.
+
+Кваліфікаційний проєкт бакалавра, спеціальність F2 Інженерія програмного
+забезпечення.
+
+## Структура репозиторію
+
+| Каталог | Призначення |
+| --- | --- |
+| `/src` | Вихідний код платформи |
+| `/docs` | Документація проєкту за принципом Documentation as Code |
+
+## Документація
+
+- [Thesis Proposal](docs/proposal.md) — технічна картка проєкту
+
+## Угоди
+
+Повідомлення комітів оформлюються за специфікацією
+[Conventional Commits](https://www.conventionalcommits.org/).
